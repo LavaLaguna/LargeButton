@@ -1,0 +1,14 @@
+body,
+html {
+  font-family: 'Montserrat', sans-serif;
+}
+
+body{
+  background: url(./header.jpg) no-repeat center center fixed;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.container{
+  height: 100vh;
+}
